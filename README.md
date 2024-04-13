@@ -1,1 +1,1 @@
-# recipe_new_odin
+# Project working on recipes for odin project
